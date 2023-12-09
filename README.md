@@ -12,10 +12,10 @@
 **Skills**
 
 * PYTHON
-SQL
-MONGODB
-POWER BI
-EXCEL
+* SQL
+* MONGODB
+* POWER BI
+* EXCEL
 
 
 
