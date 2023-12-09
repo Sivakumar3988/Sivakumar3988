@@ -10,8 +10,12 @@
 📫 Feel free to reach out for discussions, collaborations, or to share your own learning experiences. Together, let's unlock the potential of data! 🌍 I'm based in India ✉️ You can contact me at sivakumarbokam22@gmail.com
 
 **Skills**
+*PYTHON
+SQL
+MONGODB
+POWER BI
+EXCEL
 
-PYTHON, SQL, MONGODB, POWER BI, EXCEL
 
 
 #DataScience #MachineLearning #Python #SQL #mongodb #Powerbi #Data Analyst #DataAnalytics #LearningJourney
