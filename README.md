@@ -11,7 +11,7 @@
 
 **Skills**
 
-*PYTHON
+* PYTHON
 SQL
 MONGODB
 POWER BI
