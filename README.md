@@ -15,6 +15,7 @@
 * MONGODB
 * POWER BI
 * EXCEL
+* NLP
 
 
 
