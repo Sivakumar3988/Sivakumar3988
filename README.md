@@ -1,7 +1,7 @@
 ### Hi there 👋My name is Siva Kumar B
 "Having successfully concluded a Data Science course at Guvi, my passion for learning and determination to excel in this dynamic field have been the driving forces behind my journey."
 
-🎓 Current Data Science Enthusiast | 📘 Pursued Short Course in Data Science | 💡 Passionate Learner
+🎓 Current Data Science Enthusiast | 📘 Pursued a Course in Data Science at Guvi | 💡 Passionate Learner
 
 🌱 I am fueled by the desire to leverage data for impactful insights and informed decision-making. My journey includes hands-on projects, experimenting with various datasets, and mastering essential tools in the Data Science toolkit.
 
