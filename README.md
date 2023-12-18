@@ -3,7 +3,7 @@
 
 🎓 Current Data Science Enthusiast | 📘 Pursued a Course in Data Science at Guvi | 💡 Passionate Learner
 
-🌱 I am fueled by the desire to leverage data for impactful insights and informed decision-making. My journey includes hands-on projects, experimenting with various datasets, and mastering essential tools in the Data Science toolkit.
+🌱 I am fueled by the desire to leverage data for impactful insights and informed decision-making. My journey includes hands-on experience projects, experimenting with various datasets, and mastering essential tools in the Data Science toolkit.
 
 💬 I love connecting with fellow learners and professionals in the field. Let's exchange ideas, insights, and recommendations on all things Data Science!
 
