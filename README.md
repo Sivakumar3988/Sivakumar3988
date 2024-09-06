@@ -15,7 +15,7 @@
 * MONGODB
 * POWER BI
 * EXCEL
-* NLP
+* Machine Learning
 
 
 
