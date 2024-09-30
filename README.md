@@ -16,6 +16,7 @@
 * POWER BI
 * EXCEL
 * Machine Learning
+* AI
 
 
 
