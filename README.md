@@ -17,7 +17,10 @@
 * EXCEL
 * Machine Learning
 * AI
+* NLP
+* Generative AI
+* LLM
 
 
 
-#DataScience #MachineLearning #Python #SQL #mongodb #Powerbi #Data Analyst #DataAnalytics #LearningJourney
+#DataScience #MachineLearning #Python #SQL #mongodb #Powerbi #Data Analyst #DataAnalytics #LearningJourney #NLP #GENAI #LLM 
